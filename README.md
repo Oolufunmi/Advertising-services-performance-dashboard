@@ -1,16 +1,5 @@
 # Advertisement-services-performance-dashboard
 A Tableau-powered dashboard analyzing brand advertising spend, frequency, and cost-efficiency across Cable, Radio, and Terrestrial TV.
-
-
-<img width="1466" alt="image" src="https://github.com/user-attachments/assets/5f9c39f3-e64f-46f3-8401-5870e13a389e" />
-<img width="1466" alt="image" src="https://github.com/user-attachments/assets/b5f07093-68d4-4b1c-b732-65a2d4378c58" />
-
-![Uploading image.png…]()
-
-![Uploading image.png…]()
-# Exploartory-Data-Analysis-on-Kaggle-data
-
-
 ## Table Of Content
 ---
 - [Objective](#objective)
@@ -62,10 +51,26 @@ A Tableau-powered dashboard analyzing brand advertising spend, frequency, and co
 - Used visual dashboards to highlight patterns and differences
 
 - Compared media types (Cable, Radio, TTV) in terms of both cost and spot count
-https://public.tableau.com/views/mediadata_17461865077490/AdvertisingServicesAnalysis1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
-https://public.tableau.com/views/mediadata_17461865077490/AdvertisingServicesAnalysis2?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
-https://public.tableau.com/views/mediadata_17461865077490/AdvertisingServicesAnalysis3?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
-https://public.tableau.com/views/AdvertisingmediaAnaltyics4/AdvertisingServicesAnalysis4?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+# Dashboard 1
+
+   <img width="1466" alt="image" src="https://github.com/user-attachments/assets/5f9c39f3-e64f-46f3-8401-5870e13a389e" />
+# Dashboard 2
+
+![Uploading image.png…]()
+
+# Dashboard 3
+<img width="1466" alt="image" src="https://github.com/user-attachments/assets/b5f07093-68d4-4b1c-b732-65a2d4378c58" />
+
+# Dashboard 4
+![Uploading image.png…]()
+
+# To interact with this Dashboards Directly in Tableau
+
+
+ Check here for Dasboard 1 🫵 - [Here](https://public.tableau.com/views/mediadata_17461865077490/AdvertisingServicesAnalysis1?:language=enUS&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+ Check here for Dasboard 2 🫵 - [Here](https://public.tableau.com/views/mediadata_17461865077490/AdvertisingServicesAnalysis2?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+ Check here for Dasboard 3 🫵 - [Here](https://public.tableau.com/views/mediadata_17461865077490/AdvertisingServicesAnalysis3?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+ Check here for Dasboard 4 🫵- [Here](https://public.tableau.com/views/AdvertisingmediaAnaltyics4/AdvertisingServicesAnalysis4?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ### Result and Findings
 - Terra and Maggi had the highest spend overall
@@ -121,9 +126,6 @@ https://public.tableau.com/views/AdvertisingmediaAnaltyics4/AdvertisingServicesA
 
 
 #another way to write code here 🫵
-
-
-`select all from customers`
 
 *to write in italic*
 
