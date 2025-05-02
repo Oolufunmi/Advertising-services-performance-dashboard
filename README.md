@@ -7,6 +7,7 @@ A Tableau-powered dashboard analyzing brand advertising spend, frequency, and co
 - [Data Cleaning](#data-cleaning)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [My Data Analysis Approach](#my-data-analysis-approach)
+- [Links to Interact with this Dashboards Directly in Tableau](#links-to-interact-with-this-dashboards-directly-in-tableau)
 - [Result And Findings ](#result-and-findings)
 - [Ideas for Deeper Analysis](#ideas-for-deeper-analysis)
 - [Recommendations](#recommendations)
@@ -64,7 +65,7 @@ A Tableau-powered dashboard analyzing brand advertising spend, frequency, and co
 # Dashboard 4
 ![Uploading image.png…]()
 
-# To interact with this Dashboards Directly in Tableau
+# Links to Interact with this Dashboards Directly in Tableau
 
 
  Check here for Dasboard 1 🫵 - [Here](https://public.tableau.com/views/mediadata_17461865077490/AdvertisingServicesAnalysis1?:language=enUS&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
